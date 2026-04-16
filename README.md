@@ -26,6 +26,8 @@ Variables principales:
 - `V1–V28` → componentes principales  
 - `Class` → etiqueta objetivo  
 
+>Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ---
 
 ## Flujo del Sistema
