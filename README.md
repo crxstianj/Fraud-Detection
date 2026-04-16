@@ -9,14 +9,6 @@ El sistema identifica transacciones fraudulentas en datasets altamente desbalanc
 
 ---
 
-## Objetivo
-
-- Detectar transacciones fraudulentas automáticamente.
-- Reducir falsos positivos en clientes legítimos.
-- Construir un sistema escalable para producción.
-- Desplegar el modelo como servicio de predicción.
-
----
 
 ## Dataset
 
